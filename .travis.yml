@@ -1,0 +1,4 @@
+language: java
+
+notifications:
+  slack: ruier:z6moqw2vIjdCsn1weeT2LkcH
